@@ -1,3 +1,4 @@
 o
 ogo
 text 1
+текст в feature-ветке
