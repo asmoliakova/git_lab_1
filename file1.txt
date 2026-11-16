@@ -1,4 +1,10 @@
 o
 ogo
 text 1
-текст в file1.txt в main ветке
+
+текст в feature-ветке
+
+
+
+Лабораторная работа №1
+Цель работы: изучеие GitHub, pull request, code review
