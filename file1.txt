@@ -6,3 +6,5 @@ text 1
 
 
 
+Лабораторная работа №1
+Цель работы: изучеие GitHub, pull request, code review
